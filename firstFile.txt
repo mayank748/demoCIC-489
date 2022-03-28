@@ -1,4 +1,4 @@
 This is CIC-489
 this is value add first file branch
-this is to get conflict
+this is from master to get conflict
 from second branch
