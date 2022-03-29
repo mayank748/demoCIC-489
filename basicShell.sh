@@ -13,3 +13,13 @@ for((i=0;i<5;i++)){
 	echo $i;
 }
 
+#if else condition.
+condition=false
+if [ $condition == 'true' ]
+then
+	#body
+	echo "When the condition is true"
+else
+	#body
+	echo "When the condition is false"
+fi
