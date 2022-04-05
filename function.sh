@@ -5,6 +5,9 @@
 function non_parametrizedFunction(){
 	#body
 	echo "from non parametrizedfunction"
+	local a=2
+	local b=5
+	echo $(($a+$b))
 }
 
 non_parametrizedFunction
